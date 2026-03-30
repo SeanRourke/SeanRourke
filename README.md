@@ -1,7 +1,7 @@
 # Hi, I'm Seán Rourke
 
 **Software Engineer Graduate** from [SETU Carlow, Ireland] (https://www.setu.ie)  
-Skilled in **C++**, **Python**, **Javacript** and **Machine Learning**    
+Skilled in **C++**, **Python**, **Java** and **Machine Learning**    
 
 ---
 
