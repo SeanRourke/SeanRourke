@@ -66,7 +66,7 @@ An endless runner game written in assembly code.
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, React, Python, Java, Html, SQL, PHP, CSS, Go, Assembly Code  
+**Languages:** C++, Python, Java, TypeScript, React, Html, SQL, PHP, CSS, JavaScript
 **Frameworks:** TensorFlow, Flask  
 **Tools:** Docker, Git  
 **Concepts:** Machine Learning, Algorithms 
