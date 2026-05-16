@@ -25,7 +25,7 @@ A variety of machine learning projects utilising different machine learning mode
 ### [Pong Game](https://github.com/SeanRourke/Pong)
 A recreation of the classic game pong in Unity.
 
-**Tech stack:** Unity, c#
+**Tech stack:** Unity, C#
 
 ---
 
